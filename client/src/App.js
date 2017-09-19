@@ -46,7 +46,7 @@ class App extends Component {
         <Header as='h2' icon textAlign='center'>
           <Icon name='cocktail' circular />
           <Header.Content>
-            List of Ingredients
+            Fancy Cocktails
           </Header.Content>
         </Header>
         <Button.Group fluid widths={drinks.length}>
